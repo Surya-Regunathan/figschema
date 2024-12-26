@@ -1,0 +1,143 @@
+
+*{
+    text-decoration: none;
+}
+
+body{
+    width: 70%;
+    margin: auto;
+    background-color: rgb(255, 253, 252);
+}
+
+
+.container1 {
+    display: flex;
+    background-color: rgb(255, 253, 252);
+}
+.container2 {
+    display: flex;
+    background-color: rgb(255, 253, 252);
+}
+
+.container3 {
+    display: flex;
+    width: 70%;
+    margin-left: 150px;
+    margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+  
+    
+}
+
+.container1 li{
+    display: inline;
+    margin: 0px 20px;
+
+    
+}
+.container1 li a{
+    
+    text-decoration: none;
+    color: rgb(66, 66, 66);
+}
+
+.btn1{
+    margin-left: 50px;
+    
+}
+
+.btn1 button{
+    margin: 0px 8px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    border: 1px solid  rgb(255, 253, 252);
+    
+   
+}
+.btn2{
+    color: rgb(252, 144, 61);
+    
+}
+.btn3{
+    color:  rgb(255, 253, 252);
+}
+.btns2{
+    background-color: rgb(250, 117, 55);
+    
+    
+}
+.info ul{
+    position: relative;
+    margin-left: 125px;
+
+}
+
+.sub1{
+    position: relative;
+    
+}
+.sub1 h1{
+    font-size: 60px;
+    margin-top: 120px;
+}
+
+#p1{
+    font-size: 22px;
+    color: rgb(102, 102, 102);
+}
+#p2{
+    position: absolute;
+    font-size: 22px;
+    color: rgb(252, 144, 61);
+    border: 1px solid rgb(252, 144, 61);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.sub2 img{
+    position: relative;
+}
+
+.con3div1{
+    margin: 10px;
+
+}
+.con3div2{
+    margin: 10px;
+}
+
+.con3div3{
+    margin: 10px;
+}
+
+.con3div4{
+    
+    margin-top: 15px;
+    margin-left: 20px;
+    
+}
+.con3div4 button{
+    color: rgb(255, 253, 252);
+    padding: 15px 25px;
+    background-color: rgb(250, 117, 55);
+    border-radius: 5px;
+    border: 2px solid rgb(255, 253, 252);
+}
+.con3div1 input{
+    border: 2px solid  rgb(255, 253, 252);
+}
+.con3div2 input{
+    border: 2px solid  rgb(255, 253, 252);
+}
+.con3div3 input{
+    border: 2px solid  rgb(255, 253, 252);
+}
+
+.btns1{
+    background-color: rgb(255, 253, 252);
+    
+}
+b{
+    font-size: 12px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
